@@ -4,7 +4,7 @@ E-Commerce Web API
 # Introduction
 This repository is related to YouTube Tutorial of The Complete E-Commerce Web API Using Node.js With Express & MongoDB.
 
-[Watch here](https://youtu.be/sH5L-yOI3_8)
+[Watch here](https://www.youtube.com/playlist?list=PLE5Co9eD-NLThJ2Nt2vZhQuj1G4rGVQPE)
 
 
 # Run
