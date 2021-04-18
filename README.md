@@ -31,20 +31,17 @@ GET      /api/v1/products/:id
 POST     /api/v1/products
 PUT      /api/v1/products/:id
 DELETE   /api/v1/products/:id
-PUT gallery-images : /api/v1/products/gallery-images/:id
 GET featured products: /api/v1/products/get/featured/:count
 GET products count: /api/v1/products/get/count
 ```
 
-### Orders
-
+### Categories
 ```
-GET      /api/v1/orders
-GET      /api/v1/orders/:id
-POST     /api/v1/orders
-PUT      /api/v1/orders/:id
-DELETE   /api/v1/orders/:id
-GET orders count: /api/v1/orders/get/count
+GET      /api/v1/catgories
+GET      /api/v1/categories/:id
+POST     /api/v1/categories
+PUT      /api/v1/categories/:id
+DELETE   /api/v1/categories/:id
 ```
 
 ### Users
